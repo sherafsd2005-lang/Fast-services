@@ -1,0 +1,6 @@
+{
+  "name": "FIRST STEP - Home & Local Services Marketplace",
+  "description": "Connect with verified workers and service providers for plumbing, electrical, AC repair, cleaning, carpentry, and 50+ local home services across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
